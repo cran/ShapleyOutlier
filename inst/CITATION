@@ -1,0 +1,10 @@
+citHeader("To cite ShapleyOutlier in publications use:")
+
+bibentry(
+  bibtype = "Misc",
+  title = "Multivariate outlier explanations using Shapley values and Mahalanobis distances",
+  author = c(person("Marcus", "Mayrhofer", role = c("aut", "cre")), person("Peter", "Filzmoser", role = "aut")),
+  publisher = "arXiv",
+  year = 2022,
+  doi = "10.48550/ARXIV.2210.10063"
+)
