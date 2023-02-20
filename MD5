@@ -1,4 +1,4 @@
-953d2231d80862e8a63977f7f049f3eb *DESCRIPTION
+697ed5ae2b27938a558d66cd07297da2 *DESCRIPTION
 6a5b372562b77148fb1c7bb8a0872be2 *NAMESPACE
 b1bbe5ece9f29dd27ba4e1c683800bc2 *R/MOE.R
 4efed78df783b999de001bdab34fbb9a *R/SCD.R
@@ -15,14 +15,14 @@ ffc6cc839316f7c465b3203d2d10a0c5 *R/shapley.R
 881fbb3f309f1d141e6b925264054781 *R/shapley_base.R
 5e93e099168d16cf11e336dd7e4d8ee1 *R/shapley_interaction.R
 cf794928715019cf81bd51d467156178 *R/utils-pipe.R
-b302a71d057b187a93432db9a27761d5 *build/partial.rdb
-e6b29a8106193168c742b2dc459e956a *build/vignette.rds
+825cc6c6f6d9ac74994bb1f62509fa98 *build/partial.rdb
+cc261d4995201578ac71dd4a4a2385a5 *build/vignette.rds
 8f2d1c1d985896c421e4b4ca81979789 *data/WeatherVienna.rda
 292f7e127792ee00dd6764fcca852fff *inst/CITATION
 0c768966fea9eb050e4f2f547b17ede7 *inst/REFERENCES.bib
-9888aabf8f2897f67e05eb4e377b1c52 *inst/doc/ShapleyOutlier_examples.R
-c168e34520de4e379f30fd1c3c27d41b *inst/doc/ShapleyOutlier_examples.Rmd
-6e5a26999118e11ee8eb00575361708b *inst/doc/ShapleyOutlier_examples.html
+8bea9f480b80968d236d78685fcb9303 *inst/doc/ShapleyOutlier_examples.R
+3c6095fb24a25901ac31484d85954ad4 *inst/doc/ShapleyOutlier_examples.Rmd
+2b59cf12f683b212ca3583782655b111 *inst/doc/ShapleyOutlier_examples.html
 503b1c756211c9f021573a1ee098fa7e *man/MOE.Rd
 ea98bb72cfe2f87d20940f28aad260f9 *man/SCD.Rd
 ad4be677cd5e2feb6de29c5d32d0a8ac *man/ShapleyOutlier-package.Rd
@@ -39,4 +39,4 @@ aab0b1ba92a8f2071df056ca132eebba *man/print.shapley_algorithm.Rd
 92192b11eb86b1eb9c750799f674fe97 *man/print.shapley_interaction.Rd
 8a0b5a8bbf951d29b3c6b79b74ab8b2f *man/shapley.Rd
 034e7139d96596e4846acb345a5b7312 *man/shapley_interaction.Rd
-c168e34520de4e379f30fd1c3c27d41b *vignettes/ShapleyOutlier_examples.Rmd
+3c6095fb24a25901ac31484d85954ad4 *vignettes/ShapleyOutlier_examples.Rmd
