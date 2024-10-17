@@ -1,10 +1,30 @@
-citHeader("To cite ShapleyOutlier in publications use:")
+citHeader("To cite package 'ShapleyOutlier' in publications, please use:")
 
 bibentry(
-  bibtype = "Misc",
-  title = "Multivariate outlier explanations using Shapley values and Mahalanobis distances",
+  bibtype = "Manual",
+  title = "ShapleyOutlier: Multivariate Outlier Explanations using Shapley Values and Mahalanobis Distances",
   author = c(person("Marcus", "Mayrhofer", role = c("aut", "cre")), person("Peter", "Filzmoser", role = "aut")),
-  publisher = "arXiv",
   year = 2022,
-  doi = "10.48550/ARXIV.2210.10063"
+  note = "R package version 0.1.2",
+  url = "https://CRAN.R-project.org/package=ShapleyOutlier",
+  textVersion = paste("Mayrhofer M, Filzmoser P (2022).",
+                      "ShapleyOutlier: Multivariate Outlier Explanations using Shapley Values and Mahalanobis Distances.",
+                      "R package version 0.1.2.",
+                      "Available at https://CRAN.R-project.org/package=ShapleyOutlier.")
+
+)
+
+
+bibentry(
+  bibtype = "Article",
+  title = "Multivariate outlier explanations using Shapley values and Mahalanobis distances",
+  author = c(person("Marcus", "Mayrhofer"), person("Peter", "Filzmoser")),
+  journal = "Econometrics and Statistics",
+  year = 2023,
+  doi = "10.1016/j.ecosta.2023.04.003",
+  textVersion = paste("Mayrhofer M, Filzmoser P (2023).",
+                      "Multivariate outlier explanations using Shapley values and Mahalanobis distances.",
+                      "Econometrics and Statistics.",
+                      "doi:10.1016/j.ecosta.2023.04.003."),
+  header = "To cite the related article, please use:"
 )

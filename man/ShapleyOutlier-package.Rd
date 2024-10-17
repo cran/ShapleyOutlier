@@ -6,7 +6,7 @@
 \alias{ShapleyOutlier-package}
 \title{ShapleyOutlier: Multivariate Outlier Explanations using Shapley Values and Mahalanobis Distances}
 \description{
-Based on Shapley values to explain multivariate outlyingness and to detect and impute cellwise outliers. Includes implementations of methods described in Mayrhofer and Filzmoser (2022) \doi{10.48550/ARXIV.2210.10063}.
+Based on Shapley values to explain multivariate outlyingness and to detect and impute cellwise outliers. Includes implementations of methods described in Mayrhofer and Filzmoser (2023) \doi{10.1016/j.ecosta.2023.04.003}.
 }
 \author{
 \strong{Maintainer}: Marcus Mayrhofer \email{marcus.mayrhofer@tuwien.ac.at}
